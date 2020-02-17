@@ -1,0 +1,48 @@
+ body{
+    width: 300px;
+}
+
+/* #root{
+   width: 80%;
+    margin: 0 auto;
+    
+} */
+h2{
+    text-align: center;
+} */
+
+input[type=text]{
+    width:15rem;
+    text-align: center;
+    vertical-align: middle;
+    height: 2.3rem;
+}
+form{
+    width: 50%;
+}
+/* .container div{
+    margin: 0 auto; 
+     width: 66%; 
+} */
+.form-group{
+    /* display: flex; */
+    width: 30rem;
+}
+
+.form-group div{
+    width: 50%;
+}
+ .form-control{
+    width: 46%;
+    position: absolute;
+    left: 7rem;
+} 
+.form-control input{
+    width: 30%;
+}
+.btnsup{
+    width: 30%;
+    border: 1px solid black;
+    /* height: 3rem; */
+    margin-left: 50rem;
+}
